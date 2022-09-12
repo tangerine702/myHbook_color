@@ -43,3 +43,10 @@ body{
     top: 4px;
     
 }
+
+#txt {
+    position: absolute;
+    left: 205px;
+    top: 73px;
+    
+}
