@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+em,
+i {
+    font-style: normal;
+}
+body{
+    height: 100vh;
+    background-color: #eee;
+}
+
+#top{
+    width: 100%;
+    background-color: #a0d8ef;
+    height: 60px;
+}
+
+#top_colortxt{
+    background-color: #f28100;
+}
+
+#iside{
+    height: 100vh;
+    width: 200px;
+    background-color: #5654a2;
+}
+
+#iside_colortxt{
+    background-color: #f28100;
+}
+
+
+#chika{
+    width: 50px;
+    height: 50px;
+    background-image: url(/img/new_favicon.png);
+    background-size: cover;
+    display: inline-block;
+    position:relative;
+    top: 4px;
+    
+}
